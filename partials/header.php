@@ -16,7 +16,6 @@
   <link rel="stylesheet" href="/Portfolio/assets/css/templatemo-edu-meeting.css">
   <link rel="stylesheet" href="/Portfolio/assets/css/owl.css">
   <link rel="stylesheet" href="/Portfolio/assets/css/lightbox.css">
-
 </head>
 
 
@@ -25,34 +24,34 @@
       <div class="row">
           <div class="col-12">
               <nav class="main-nav">
-                  <a href="/Portfolio/index.php" class="logo">R.Chanavat</a>
+                  <a href="../pages/Acceuil.php" class="logo">R.Chanavat</a>
                   <ul class="nav">
 
-                      <li class="scroll-to-section"><a href="/Portfolio/index.php" class="active">Acceuil</a></li>
+                      <li><a href="../pages/Acceuil.php">Acceuil</a></li>
 
-                      <li><a href="/Portfolio/meetings.html">Entreprise</a></li>
+                      <li><a href="../pages/Entreprise.php">Entreprise</a></li>
 
-                      <li class="scroll-to-section"><a href="#apply">Veille</a></li>
+                      <li><a href="../pages/Veille.php">Veille</a></li>
 
                       <li class="has-sub">
                           <a href="javascript:void(0)">Travaux</a>
                           <ul class="sub-menu">
-                              <li><a href="/Portfolio/meetings.html">Application bar</a></li>
-                              <li><a href="/Portfolio/meeting-details.html">Portfolio</a></li>
+                              <li><a href="../pages/Travaux.php">Application bar</a></li>
+                              <li><a href="../pages/Travaux.php">Portfolio</a></li>
                           </ul>
                       </li>
 
                       <li class="has-sub">
                           <a href="javascript:void(0)">Projet</a>
                           <ul class="sub-menu">
-                              <li><a href="/Portfolio/meetings.html">Projet 1</a></li>
-                              <li><a href="/Portfolio/meeting-details.html">Projet 2</a></li>
+                              <li><a href="../pages/Projet.php">Projet 1</a></li>
+                              <li><a href="../pages/Projet.php">Projet 2</a></li>
                           </ul>
                       </li>
 
-                      <li class="scroll-to-section"><a href="#contact">Compétence</a></li>
+                      <li><a href="../pages/Competence.php">Compétence</a></li>
 
-                      <li><a href="#####">Répertoire</a></li>
+                      <li><a href="../pages/Repertoire.php">Répertoire</a></li>
 
                   </ul>
 
