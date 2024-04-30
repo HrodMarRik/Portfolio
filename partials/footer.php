@@ -1,8 +1,41 @@
-  <section class="contact-us" id="contact">
-    <div class="footer">
+<section class="contact-us" id="contact">
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-12">
+          <h1>Portfolio</h1>
+          <hr>
+        </div>
+
+        <div class="col-lg-4">
+          <ul>
+            <li><p><a target="_blank" href="mailto:romaric.chanavat@gmail.com">romaric.chanavat@gmail.com</a><p></li>
+            <li><p><a href="tel:+33783150007">0783150007</a></p></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4">
+          <ul>
+            <li><p><a href="#">Mentions légales</a></p></li>
+          </ul>          
+        </div>
+
+        <div class="col-lg-4">
+          <ul>
+            <li><a target="_blank" href="https://www.linkedin.com/in/romaric-chanavat-009935221/"><i class="fab fa-2x fa-linkedin-in"></i></a></li>
+            <li><a target="_blank" href="https://github.com/HrodMarRik"><i class="fab fa-2x fa-github"></i></a></li>
+          </ul>          
+        </div>
       <p>© 2024 Romaric Chanavat. Tous droits réservés.</p>
+      </div>
     </div>
-  </section>
+</section>
+
+
+
+
+
 <!-- Scripts -->
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

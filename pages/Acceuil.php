@@ -4,16 +4,16 @@
 require '../partials/header.php';
 
 // description du BTS SIO SLAM pour acceuil
-require '../partials/small_BTS.php';
+require '../partials/small/small_BTS.php';
 
 // Block defilant 
-require '../partials/small_CV.php';
+require '../partials/small/small_CV.php';
 
 //  Veille techno pour l'acceuil
-require '../partials/small_Veille.php';
+require '../partials/small/small_Veille.php';
 
 // Tableau de compétence + projet pour l'acceuil
-require '../partials/small_tab_competence.php';
+require '../partials/small/small_tab_competence.php';
 
 // footer
 require '../partials/footer.php';

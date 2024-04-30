@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="/Portfolio/assets/css/templatemo-edu-meeting.css">
   <link rel="stylesheet" href="/Portfolio/assets/css/owl.css">
   <link rel="stylesheet" href="/Portfolio/assets/css/lightbox.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 </head>
 
 
@@ -49,7 +50,13 @@
                           </ul>
                       </li>
 
-                      <li><a href="../pages/Competence.php">Compétence</a></li>
+                      <li class="has-sub">
+                          <a href="javascript:void(0)">Compétence</a>
+                          <ul class="sub-menu">
+                              <li><a href="../pages/Competence.php">COMPETENCE 1</a></li>
+                              <li><a href="../pages/Competence.php">COMPETENCE 2</a></li>
+                          </ul>
+                      </li>
 
                       <li><a href="../pages/Repertoire.php">Répertoire</a></li>
 
