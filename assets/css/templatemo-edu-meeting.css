@@ -1827,3 +1827,29 @@ responsive
   }
 
 }
+
+/* Style général du tableau */
+table {
+    width: 100%; /* Le tableau utilise toute la largeur disponible */
+    border-collapse: collapse; /* Les bordures des cellules sont fusionnées */
+    margin: 20px 0; /* Ajoute un peu d'espace autour du tableau */
+}
+
+/* Style des cellules du tableau */
+th, td {
+    border: 1px solid #cccccc; /* Couleur de la bordure des cellules */
+    padding: 8px; /* Espacement à l'intérieur des cellules */
+    text-align: left; /* Alignement du texte à gauche */
+    font-size: 16px; /* Taille de la police dans les cellules */
+}
+
+/* Style spécifique pour les en-têtes de tableau */
+th {
+    background-color: #f2f2f2; /* Couleur de fond pour les en-têtes */
+    color: #333333; /* Couleur du texte pour les en-têtes */
+}
+
+/* Style pour améliorer l'interaction visuelle */
+tr:hover {
+    background-color: #e8e8e8; /* Couleur de fond lors du survol d'une ligne */
+}
