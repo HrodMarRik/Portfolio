@@ -10,7 +10,7 @@
               </div>
               <div class="down-content">
                 <h4>Chiffre sur moi</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <?php echo "Âgé de " . date_diff(date_create('2002-12-17'), date_create('today'))->y . " ans."; ?>
               </div>
             </div>
             
@@ -30,7 +30,11 @@
               </div>
               <div class="down-content">
                 <h4>Mon Parcours</h4>
-                <p>Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</p>
+                <ul>
+                  <li>Bac STI2D</li>
+                  <li>info 1</li>
+                  <li>info 1</li>
+                </ul>
               </div>
             </div>
             
@@ -40,7 +44,7 @@
               </div>
               <div class="down-content">
                 <h4><a href="https://jeremietran.fr/index.php">Mon CV</a></h4>
-                <p><a href="https://jeremietran.fr/index.php">Suspendisse tempor mauris a sem elementum bibendum. Praesent facilisis massa non vestibulum.</a></p>
+                <p><a href="https://jeremietran.fr/index.php"> >Téléchargement<.</a></p>
               </div>
             </div>
           </div>

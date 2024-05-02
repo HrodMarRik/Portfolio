@@ -17,52 +17,31 @@
             <div class="col-lg-12">
               <div class="meeting-single-item">
                 <div class="thumb">
-                  <img src="../assets/images/single-meeting.jpg" alt="">
+                  <img src="../assets/images/Microlead_Acceuil.png" alt="un alt">
                 </div>
                 <div class="down-content">
-                  <h3>Stage 1</h3><hr>
+                  <?php
+                    require '../vendor/autoload.php';
+                    $file = "Microlead";
+                    $cheminFichier = '../partials/small/' . $file .".md";
 
-                  <h5>Description des tâches</h5>
-                  <ul>
-                    <li>Tache 1</li>
-                    <li>Tache 2</li>
-                    <li>...</li>
-                  </ul>
-                  <hr>
-                  <h5>Description des Outils</h5>
-                  <ul>
-                    <li>Outil 1</li>
-                    <li>Outil 2</li>
-                    <li>...</li>
-                  </ul>
-                  <hr>
-                  <p>
-                    description du projet
-                  </p>
-                  <hr>
+                    // Vérifier si le fichier existe
+                    if (file_exists($cheminFichier)) {
+                        // Lire le contenu du fichier
+                        $contenuMarkdown = file_get_contents($cheminFichier);
 
-                  
-                  <div class="row">
+                        // Créer une instance de Parsedown
+                        $parsedown = new Parsedown();
 
-                    <h4><b>ANNEXES:</b></h4>
-                    <div class="col-lg-4">
-                      <h5>ANNEXE 1</h5>
-                      <p>LIEN 123
-                      <br>LIEN 321</p>
-                    </div>
+                        // Convertir le Markdown en HTML
+                        $html = $parsedown->text($contenuMarkdown);
 
-                    <div class="col-lg-4">
-                        <h5>ANNEXE 2</h5>
-                        <p>LIEN 1.2
-                        <br>LIEN 3.2</p>
-                    </div>
-
-                    <div class="col-lg-4">
-                        <h5>ANNEXE 3</h5>
-                        <p>LIEN 1
-                        <br>LIEN 3.1</p>
-                    </div>
-
+                        // Afficher le HTML
+                        echo $html;
+                    } else {
+                        echo "Le fichier $cheminFichier n'existe pas.";
+                    }
+                  ?>
 
                     <div class="col-lg-12">
                       <div class="share">
