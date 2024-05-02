@@ -25,40 +25,40 @@
       <div class="row">
           <div class="col-12">
               <nav class="main-nav">
-                  <a href="../pages/Acceuil.php" class="logo">R.Chanavat</a>
+                  <a href="/Portfolio/pages/Acceuil.php" class="logo">R.Chanavat</a>
                   <ul class="nav">
 
-                      <li><a href="../pages/Acceuil.php">Acceuil</a></li>
+                      <li><a href="/Portfolio/pages/Acceuil.php">Acceuil</a></li>
 
-                      <li><a href="../pages/Entreprise.php">Entreprise</a></li>
+                      <li><a href="/Portfolio/pages/Entreprise.php">Entreprise</a></li>
 
-                      <li><a href="../pages/Veille.php">Veille</a></li>
+                      <li><a href="/Portfolio/pages/Veille.php">Veille</a></li>
 
                       <li class="has-sub">
                           <a href="javascript:void(0)">Travaux</a>
                           <ul class="sub-menu">
-                              <li><a href="../pages/Travaux.php">Application bar</a></li>
-                              <li><a href="../pages/Travaux.php">Portfolio</a></li>
+                              <li><a href="/Portfolio/pages/Travaux/app_bar.php">Application bar</a></li>
+                              <li><a href="/Portfolio/pages/Travaux/portfolio.php">Portfolio</a></li>
                           </ul>
                       </li>
 
                       <li class="has-sub">
                           <a href="javascript:void(0)">Projet</a>
                           <ul class="sub-menu">
-                              <li><a href="../pages/Projet.php">Projet 1</a></li>
-                              <li><a href="../pages/Projet.php">Projet 2</a></li>
+                              <li><a href="/Portfolio/pages/Projet/Projet1.php">Projet 1</a></li>
+                              <li><a href="/Portfolio/pages/Projet/Projet2.php">Projet 2</a></li>
                           </ul>
                       </li>
 
                       <li class="has-sub">
                           <a href="javascript:void(0)">Compétence</a>
                           <ul class="sub-menu">
-                              <li><a href="../pages/Competence.php">COMPETENCE 1</a></li>
-                              <li><a href="../pages/Competence.php">COMPETENCE 2</a></li>
+                              <li><a href="/Portfolio/pages/Competence/Competence1.php">COMPETENCE 1</a></li>
+                              <li><a href="/Portfolio/pages/Competence/Competence2.php">COMPETENCE 2</a></li>
                           </ul>
                       </li>
 
-                      <li><a href="../pages/Repertoire.php">Répertoire</a></li>
+                      <li><a href="/Portfolio/pages/Repertoire.php">Répertoire</a></li>
 
                   </ul>
 

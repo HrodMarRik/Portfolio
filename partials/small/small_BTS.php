@@ -13,7 +13,7 @@
                 <p>Dans le cadre du BTS SIO <br></p>
                 <p>Dans le cadre du BTS SIO <br></p>
                 <div class="main-button-red">
-                    <div class="scroll-to-section"><a href="#contact">Description</a></div>
+                    <div><a href="../pages/BTS.php">Plus d'info</a></div>
                 </div>
               </div>
             </div>

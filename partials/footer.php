@@ -5,7 +5,7 @@
 
         <div class="col-lg-12">
           <h1>Portfolio</h1>
-          <hr>
+          <br><hr>
         </div>
 
         <div class="col-lg-4">
@@ -17,7 +17,7 @@
 
         <div class="col-lg-4">
           <ul>
-            <li><p><a href="#">Mentions légales</a></p></li>
+            <li><p><a href="Mentions_Legales.php">Mentions légales</a></p></li>
           </ul>          
         </div>
 

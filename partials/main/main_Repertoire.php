@@ -5,6 +5,9 @@
         <div class="col-lg-12">
           <h2>Tableau de Synthèse</h2>
         </div>
+        <div class="main-button-red">
+            <a href="#">Télécharger :<br>Annexe 6-1 Tableau de synthèse</a>
+        </div>
       </div>
     </div>
   </section>
@@ -12,10 +15,12 @@
   <section class="meetings-page" id="meetings">
     <div class="container">
       <div class="row">
+
         <div class="col-lg-12">
           <div class="row">
             <div class="col-lg-12">
               <div class="meeting-single-item">
+                <div class="col-lg-12">
                 <div class="thumb">
                   <img src="../assets/images/single-meeting.jpg" alt="">
                 </div>
@@ -31,7 +36,6 @@
 
                           // Créer une instance de Parsedown
                           $parsedown = new Parsedown();
-                          $parsedown->setSafeMode(true); // Activer le mode sûr si le contenu peut provenir de sources externes
 
                           // Convertir le Markdown en HTML
                           $html = $parsedown->text($contenuMarkdown);
@@ -55,11 +59,6 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-            <div class="col-lg-12">
-              <div class="main-button-red">
-                <a href="Acceuil.php">Retour vers l'Acceuil</a>
               </div>
             </div>
           </div>
