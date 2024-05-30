@@ -48,6 +48,7 @@
 <script src="../assets/js/video.js"></script>
 <script src="../assets/js/slick-slider.js"></script>
 <script src="../assets/js/custom.js"></script>
+<script src="../assets/js/zoom.js"></script>
 <script>
    //according to loftblog tut
    $('.nav li:first').addClass('active');

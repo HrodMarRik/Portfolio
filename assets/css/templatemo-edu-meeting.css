@@ -1854,3 +1854,17 @@ th {
 tr:hover {
     background-color: #e8e8e8; /* Couleur de fond lors du survol d'une ligne */
 }
+
+
+
+.zoom {
+    overflow: hidden;
+}
+
+.zoom-img {
+    transition: transform 0.3s;
+}
+
+.zoom-img:hover {
+    transform: scale(1.2); /* Ajustez le facteur d'agrandissement selon vos besoins */
+}

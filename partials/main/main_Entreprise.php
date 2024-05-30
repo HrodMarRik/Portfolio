@@ -58,11 +58,6 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="main-button-red">
-                <a href="Acceuil.php">Retour vers l'Acceuil</a>
-              </div>
-            </div>
           </div>
         </div>
       </div>
