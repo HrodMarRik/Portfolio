@@ -17,7 +17,7 @@
 
         <div class="col-lg-4">
           <ul>
-            <li><p><a href="Mentions_Legales.php">Mentions légales</a></p></li>
+            <li><p><a href="/Portfolio/pages/Mentions_Legales.php">Mentions légales</a></p></li>
           </ul>          
         </div>
 
@@ -27,13 +27,11 @@
             <li><a target="_blank" href="https://github.com/HrodMarRik"><i class="fab fa-2x fa-github"></i></a></li>
           </ul>          
         </div>
-      <p>© 2024 Romaric Chanavat. Tous droits réservés.</p>
+      <p>© 2025 Romaric Chanavat. Tous droits réservés.</p>
       </div>
     </div>
+  </div>
 </section>
-
-
-
 
 
 <!-- Scripts -->

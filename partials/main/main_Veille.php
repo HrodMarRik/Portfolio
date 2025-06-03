@@ -21,6 +21,7 @@
             <div class="col-lg-12">
               <div class="row grid">
 
+              <!-- toutes mes veilles -->
                 <?php require '../partials//Veille/typeVeille.php'; ?>
                 <?php require '../partials//Veille/typeVeille.php'; ?>
                 <?php require '../partials//Veille/typeVeille.php'; ?>

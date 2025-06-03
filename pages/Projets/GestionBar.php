@@ -2,8 +2,8 @@
 // header
 require '../../partials/header.php';
 
-$file = "Competence1" ;
-require '../../partials/Competence/Competence_' . $file .".php";
+$file = "GestionBar" ;
+require '../../partials/Projet/Projet_' . $file .".php";
 
 // footer
 require '../../partials/footer.php';

@@ -8,7 +8,7 @@
       </div>
       <div class="col-lg-4">
         <div class="categories">
-          <h4>NOM DU SUJET</h4>
+          <h4>Cybersécurité des Applications Web</h4>
           <ul>
             <li><a href="#">Définition de la veille</a></li>
             <li><a href="#">Choix du thème</a></li>
@@ -25,9 +25,9 @@
         <br><br>
         <div class="row">            
 
-          <?php require '../partials//Veille/typeVeille.php'; ?>
-          <?php require '../partials//Veille/typeVeille.php'; ?>
-          <?php require '../partials//Veille/typeVeille.php'; ?>
+          <?php require '../partials//Veille/Article_AuthSecurisee.php'; ?>
+          <?php require '../partials//Veille/Article_OWASP2023.php'; ?>
+          <?php require '../partials//Veille/Article_ZeroTrust.php'; ?>
 
 
         </div>

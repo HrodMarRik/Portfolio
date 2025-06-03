@@ -7,7 +7,7 @@
       </div>
       <div class="col-lg-12">
         <div class="main-button-red">
-          <a href="#">Télécharger :<br> >Annexe 6-1 Tableau de synthèse < </a>
+          <a href="/Portfolio/assets/document/tab_synthèse.pdf" download>Télécharger :<br> >Annexe 6-1 Tableau de synthèse < </a>
         </div>
       </div>
 

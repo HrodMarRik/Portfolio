@@ -21,7 +21,7 @@
               <div class="down-content">
                   <?php
                     require '../../vendor/autoload.php';
-                    $file = "Projet1";
+                    $file = "GestionBar";
                     $cheminFichier = '../../partials/Projet/' . $file .".md";
 
                     // Vérifier si le fichier existe

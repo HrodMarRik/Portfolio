@@ -1,36 +1,63 @@
-## Mentions Légales
-<hr>
+# Mentions Légales
+<br>
 
-### Identification
+## Éditeur du Site<br>
 
-- Nom : Romaric Chanavat
-- Adresse : 15 Rue de Malmouche 49124
-- Téléphone : +33783150007
-- Email : romaric.chanavat@gmail.com
-<hr>
+**Nom :** Romaric Chanavat<br>
+**Adresse email :** romaric.chanavat@gmail.com<br>
+**Téléphone :** 07 83 15 00 07<br>
+<br>
 
-### Hébergement du site
+## Hébergeur<br>
+<br>
 
-- Site hébergé par : [Nom de l’hébergeur]
-- Adresse de l’hébergeur : [Adresse complète de l’hébergeur]
-- Téléphone de l’hébergeur : [Numéro de téléphone de l’hébergeur]
-<hr>
+**Nom de l'hébergeur :** OVH<br>
+**Adresse :** 2 rue Kellermann, 59100 Roubaix, France<br>
+**Téléphone :** +33 9 72 10 10 07<br>
+**Site web :** [ovh.com](https://www.ovh.com)<br>
+<br>
 
-### Responsabilité du contenu
+## Propriété Intellectuelle<br>
+<br>
 
-Je suis le seul responsable du contenu publié sur ce portfolio, incluant textes, images et vidéos que j'ai créés. Tout contenu externe est clairement identifié et les droits d'utilisation sont respectés conformément aux lois en vigueur.
-<hr>
+Tous les contenus présents sur ce site (textes, images, vidéos, etc.) sont la propriété exclusive de Romaric Chanavat. Toute reproduction, même partielle, est strictement interdite sans autorisation préalable.<br>
 
-### Propriété intellectuelle
+## Responsabilité<br>
+<br>
 
-Tous les éléments de ce site, y compris les textes, images, graphismes et logo, sont ma propriété exclusive, sauf mentions contraires. Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans mon accord exprès écrit. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle.
-<hr>
+Romaric Chanavat s'efforce de fournir des informations aussi précises que possible. Toutefois, il ne pourra être tenu responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.<br>
+<br>
 
-### Protection des données personnelles
+Toutes les informations indiquées sur le site sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.<br>
+<br>
 
-Je m'engage à protéger la confidentialité des informations personnelles fournies par les visiteurs de mon portfolio. Les informations collectées sont utilisées uniquement pour la gestion des relations avec mes visiteurs et ne sont pas cédées à des tiers.
-<hr>
+## Cookies et Données Personnelles<br>
+<br>
 
-### Loi applicable et attribution de juridiction
+Pour des besoins de statistiques et d'affichage, le présent site utilise des cookies. Il s'agit de petits fichiers textes stockés sur votre disque dur afin d'enregistrer des données techniques sur votre navigation. Certaines parties de ce site ne peuvent être fonctionnelles sans l’acceptation de cookies.<br>
+<br>
 
-Les présentes mentions légales sont soumises au droit français. En cas de litige, les tribunaux français seront seuls compétents.
+Conformément à la loi "Informatique et Libertés" du 6 janvier 1978 modifiée et au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification et d'opposition aux données personnelles vous concernant. Pour exercer ce droit, adressez-vous à romaric.chanavat@gmail.com.<br>
+<br>
+
+## Liens Hypertextes<br>
+<br>
+
+Le site contient un certain nombre de liens hypertextes vers d’autres sites, mis en place avec l’autorisation de Romaric Chanavat. Cependant, Romaric Chanavat n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.<br>
+<br>
+
+## Droit Applicable et Attribution de Juridiction<br>
+<br>
+
+Tout litige en relation avec l’utilisation du site est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de [Ville].<br>
+<br>
+
+## Contact<br>
+<br>
+
+Pour toute question ou demande d'information, vous pouvez me contacter à l'adresse suivante : romaric.chanavat@gmail.com.<br>
+
+---
+<br>
+
+**Dernière mise à jour :** 04/2025

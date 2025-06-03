@@ -2,12 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Mentions Légales</h2>
+        <h2>Competence 1</h2>
       </div>
     </div>
   </div>
 </section>
-
+ 
 <section class="meetings-page" id="meetings">
   <div class="container">
     <div class="row">
@@ -21,7 +21,7 @@
               <div class="down-content">
                   <?php
                     require '../../vendor/autoload.php';
-                    $file = "Competence1";
+                    $file = "GestionPatrimoine";
                     $cheminFichier = '../../partials/Competence/' . $file .".md";
 
                     // Vérifier si le fichier existe
@@ -50,3 +50,4 @@
   </div>
     <br>
 </section>
+
