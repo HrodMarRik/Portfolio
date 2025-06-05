@@ -22,14 +22,9 @@
               <div class="row grid">
 
               <!-- toutes mes veilles -->
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
-                <?php require '../partials//Veille/typeVeille.php'; ?>
+                <?php require '../partials/Veille/Article_AuthSecurisee.php'; ?>
+                <?php require '../partials/Veille/Article_OWASP2023.php'; ?>
+                <?php require '../partials/Veille/Article_ZeroTrust.php'; ?>
 
               </div>
             </div>

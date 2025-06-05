@@ -2,7 +2,7 @@
 // header
 require '../../partials/header.php';
 
-$file = "Projet2" ;
+$file = "ClicknEat" ;
 require '../../partials/Projet/Projet_' . $file .".php";
 
 // footer

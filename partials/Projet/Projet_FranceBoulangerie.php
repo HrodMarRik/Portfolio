@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Mentions Légales</h2>
+        <h2>Projet - France Boulangerie</h2>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@
               <div class="down-content">
                   <?php
                     require '../../vendor/autoload.php';
-                    $file = "Projet1";
+                    $file = "FranceBoulangerie";
                     $cheminFichier = '../../partials/Projet/' . $file .".md";
 
                     // Vérifier si le fichier existe

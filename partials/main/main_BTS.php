@@ -7,7 +7,7 @@
       </div>
       <div class="col-lg-12">
         <div class="main-button-red">
-          <a href="/Portfolio/assets/document/tab_synthèse.pdf" download>Télécharger :<br> >Annexe 6-1 Tableau de synthèse < </a>
+          <a href="/assets/document/tab_synthèse.pdf" download>Télécharger :<br> >Annexe 6-1 Tableau de synthèse < </a>
         </div>
       </div>
 
@@ -23,7 +23,7 @@
           <div class="col-lg-12">
             <div class="meeting-single-item">
               <div class="thumb">
-                <img src="../assets/images/single-meeting.jpg" alt="">
+                <img src="assets/images/single-meeting.jpg" alt="">
               </div>
               <div class="down-content">
                   <?php

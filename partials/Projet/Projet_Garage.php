@@ -1,23 +1,52 @@
-<div class="col-lg-12">
-  <h2>Gestion de Garage</h2>
-  <div class="project-item">
-    <h4>Application de gestion automobile</h4>
-    <p>Développée en première année</p>
-    <div class="technologies">
-      <h5>Technologies utilisées</h5>
-      <ul>
-        <li>C#</li>
-        <li>SQL Server</li>
-        <li>Windows Forms</li>
-      </ul>
-    </div>
-    <div class="competences">
-      <h5>Compétences mises en œuvre</h5>
-      <ul>
-        <li>Travailler en mode projet</li>
-        <li>Mettre à disposition des utilisateurs</li>
-        <li>Organiser son développement</li>
-      </ul>
+<section class="heading-page header-text" id="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>Projet - Garage</h2>
+      </div>
     </div>
   </div>
-</div> 
+</section>
+
+<section class="meetings-page" id="meetings">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="meeting-single-item">
+              <div class="thumb">
+                <img src="../../assets/images/single-meeting.jpg" alt="">
+              </div>
+              <div class="down-content">
+                  <?php
+                    require '../../vendor/autoload.php';
+                    $file = "Garage";
+                    $cheminFichier = '../../partials/Projet/' . $file .".md";
+
+                    // Vérifier si le fichier existe
+                    if (file_exists($cheminFichier)) {
+                        // Lire le contenu du fichier
+                        $contenuMarkdown = file_get_contents($cheminFichier);
+
+                        // Créer une instance de Parsedown
+                        $parsedown = new Parsedown();
+
+                        // Convertir le Markdown en HTML
+                        $html = $parsedown->text($contenuMarkdown);
+
+                        // Afficher le HTML
+                        echo $html;
+                    } else {
+                        echo "Le fichier $cheminFichier n'existe pas.";
+                    }
+                  ?>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <br>
+</section>

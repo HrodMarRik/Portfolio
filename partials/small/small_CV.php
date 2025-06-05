@@ -7,7 +7,7 @@
                         
             <div class="item">
                 <div class="icon">
-                    <img src="../assets/images/service-icon-02.png" alt="">
+                    <img src="<?php echo asset('assets/images/service-icon-02.png'); ?>" alt="">
                 </div>
                 <div class="down-content">
                     <h4>Mon Contact</h4>
@@ -17,7 +17,7 @@
 
             <div class="item">
               <div class="icon">
-                <img src="../assets/images/GITHUB.png" alt="">
+                <img src="<?php echo asset('assets/images/GITHUB.png'); ?>" alt="">
               </div>
               <div class="down-content">
                 <h4>Mon GITHUB</h4>
@@ -28,17 +28,17 @@
             
             <div class="item">
               <div class="icon">
-                <img src="../assets/images/service-icon-02.png" alt="">
+                <img src="<?php echo asset('assets/images/service-icon-02.png'); ?>" alt="">
               </div>
               <div class="down-content">
                 <h4>Mon CV</h4>
-                <p><a href="/Portfolio/assets/document/CV.pdf" download> >Téléchargement<.</a></p>
+                <p><a href="<?php echo asset('assets/document/CV.pdf'); ?>" download> >Téléchargement<.</a></p>
               </div>
             </div>
 
             <div class="item">
               <div class="icon">
-                <img src="../assets/images/service-icon-01.png" alt="">
+                <img src="<?php echo asset('assets/images/service-icon-01.png'); ?>" alt="">
               </div>
               <div class="down-content">
                 <h4>Chiffre sur moi</h4>

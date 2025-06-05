@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/../config/config.php'; ?>
 <section class="contact-us" id="contact">
   <div class="footer">
     <div class="container">
@@ -35,18 +36,21 @@
 
 
 <!-- Scripts -->
-<!-- Bootstrap core JavaScript -->
-<script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
-<script src="../assets/js/isotope.min.js"></script>
-<script src="../assets/js/owl-carousel.js"></script>
-<script src="../assets/js/lightbox.js"></script>
-<script src="../assets/js/tabs.js"></script>
-<script src="../assets/js/video.js"></script>
-<script src="../assets/js/slick-slider.js"></script>
-<script src="../assets/js/custom.js"></script>
-<script src="../assets/js/zoom.js"></script>
+<!-- Bootstrap JS Bundle -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+<!-- Custom Scripts -->
+<script src="<?php echo asset('assets/js/isotope.min.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/owl-carousel.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/lightbox.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/tabs.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/video.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/slick-slider.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/custom.js'); ?>"></script>
+<script src="<?php echo asset('assets/js/zoom.js'); ?>"></script>
 <script>
    //according to loftblog tut
    $('.nav li:first').addClass('active');
@@ -92,5 +96,17 @@
    $(window).scroll(function () {
     checkSection();
    });</script>
+
+<style>
+  section h1 {
+    font-size: 2.5rem;
+    margin: 1rem 0;
+  }
+  
+  .separator {
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+</style>
 
 </html>

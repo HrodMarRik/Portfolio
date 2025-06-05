@@ -1,21 +1,9 @@
 <?php
-
-// header
-require '../partials/header.php';
-
-// description du BTS SIO SLAM pour acceuil
-require '../partials/small/small_BTS.php';
-
-// Block defilant 
-require '../partials/small/small_CV.php';
-
-//  Veille techno pour l'acceuil
-require '../partials/small/small_Veille.php';
-
-// Tableau de compétence + projet pour l'acceuil
-require '../partials/small/small_tab_competence.php';
-
-// footer
-require '../partials/footer.php';
-
+require_once __DIR__ . '/../config/config.php';
+require_once __DIR__ . '/../partials/header.php';
+require_once __DIR__ . '/../partials/small/small_BTS.php';
+require_once __DIR__ . '/../partials/small/small_CV.php';
+require_once __DIR__ . '/../partials/small/small_Veille.php';
+require_once __DIR__ . '/../partials/small/small_tab_competence.php';
+require_once __DIR__ . '/../partials/footer.php';
 ?>

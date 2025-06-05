@@ -32,10 +32,10 @@ Vous pouvez utiliser du CSS pour styliser l'ensemble de votre page, mais ce n'es
 
 | **Page**       | **Page Articles**                      | **Page Commandes**                      | **Page Tables**                    |
 |----------------|----------------------------------------|-----------------------------------------|------------------------------------|
-| **Image**      | [![image articles](/Portfolio/assets/images/AppBarArticles.png)](/Portfolio/assets/images/AppBarArticles.png) | [![image Commandes](/Portfolio/assets/images/AppBarCommandes.png)](/Portfolio/assets/images/AppBarCommandes.png) | [![image Tables](/Portfolio/assets/images/AppBarTables.png)](/Portfolio/assets/images/AppBarTables.png) |
+| **Image**      | [![image articles](/assets/images/AppBarArticles.png)](/assets/images/AppBarArticles.png) | [![image Commandes](/assets/images/AppBarCommandes.png)](/assets/images/AppBarCommandes.png) | [![image Tables](/assets/images/AppBarTables.png)](/assets/images/AppBarTables.png) |
 | **Contenu**    | **Éléments stockés :**<br>- ID (généré automatiquement)<br>- Nom<br>- Description<br>- Prix<br>- Recette | **Éléments stockés :**<br>- Numéro (généré automatiquement)<br>- Contenu<br>- Prix Total<br>- Date (généré automatiquement)<br>- Statut de paiement | **Éléments stockés :**<br>- Numéro (généré automatiquement)<br>- Disponibilité<br>- Contenu |
 
----
+--- 
 
 ## Description des tâches
 

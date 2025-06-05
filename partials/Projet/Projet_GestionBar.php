@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Mentions Légales</h2>
+        <h2>Projet - Gestion Bar</h2>
       </div>
     </div>
   </div>
